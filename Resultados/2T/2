@@ -1,0 +1,3 @@
+K-means 1D (naive) - ETAPA 1
+N=5000000 K=16 max_iter=1000 eps=1e-06
+Iterações: 296 | SSE final: 4167897038.888567 | Tempo: 12366.0 ms
