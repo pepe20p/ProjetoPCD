@@ -1,0 +1,6 @@
+tempo h2d: 3 ms 57 MB
+tempo kernel: 3432 ms
+tempo d2h: 7 ms 57 MB
+K-means 1D (CUDA)
+N=5000000 K=16 max_iter=1000 eps=1e-06
+Iterações: 296 | SSE final: 4167901044.384322 | Tempo: 4360.1 ms
